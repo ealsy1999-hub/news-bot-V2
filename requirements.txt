@@ -1,0 +1,5 @@
+requests
+feedparser
+python-dotenv
+python-telegram-bot[job-queue]>=21.0
+flask
